@@ -25,7 +25,7 @@ int main()
     printf("Digite o número de pontos turísticos: ");
     scanf("%d", &numPontosTuristicos);
 
-    printf("\nCarta 1\n");
+    printf("Carta 1\n");
     printf("Estado: %c\n", estado);
     printf("Código da Carta: %s\n", codigoCarta);
     printf("Nome da Cidade: %s\n", nomeCidade);
@@ -49,7 +49,7 @@ int main()
     printf("Digite o número de pontos turísticos: ");
     scanf("%d", &numPontosTuristicos);
 
-    printf("\nCarta 2\n");
+    printf("Carta 2 \n");
     printf("Estado: %c\n", estado);
     printf("Código da Carta: %s\n", codigoCarta);
     printf("Nome da Cidade: %s\n", nomeCidade);
